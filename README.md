@@ -5,4 +5,4 @@ Screenshot for different scenarios below:
 
 1. First time opening
 
-![alt text](images/First launch.jpg)
+![alt text](https://github.com/sandy428/Acronyms/blob/master/images/First%20launch.jpg)
