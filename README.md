@@ -5,5 +5,7 @@ Screenshot for different scenarios below:
 
 1. First time opening
 
-![alt text](https://github.com/sandy428/Acronyms/blob/master/images/First%20launch.jpg | width=100)
+<p align="left">
+  <img width="180" height="370" src="https://github.com/sandy428/Acronyms/blob/master/images/First%20launch.jpg">
+</p>
 
