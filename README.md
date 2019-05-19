@@ -44,21 +44,21 @@ Below are the screenshots for test cases:
 1. Success data return test case
 
 <p align="left">
-  <img width="180" height="370" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20case%20returns%20data.png">
+  <img width="600" height="180" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20case%20returns%20data.png">
 </p>
 
 
 2. Empty data return test case
 
 <p align="left">
-  <img width="180" height="370" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20case%20returns%20empty%20data.png">
+  <img width="600" height="180" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20case%20returns%20empty%20data.png">
 </p>
 
 
 3. Error/Failure return test case
 
 <p align="left">
-  <img width="180" height="370" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20case%20exception%20network%20error.png">
+  <img width="600" height="180" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20case%20exception%20network%20error.png">
 </p>
 
 
@@ -67,5 +67,5 @@ Below are the screenshots for test cases:
 Test case results - Code coverage - 80% methods, 84% lines on View Model class
 
 <p align="left">
-  <img width="180" height="370" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20cases%20run%20result.png">
+  <img width="600" height="180" src="https://github.com/sandy428/Acronyms/blob/master/images/test%20cases%20run%20result.png">
 </p>
